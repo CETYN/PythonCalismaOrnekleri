@@ -1,2 +1,0 @@
-# PythonCalismaOrnekleri
-PythonCalışmaOrnekleri
