@@ -1,2 +1,2 @@
-# PythonCal-maOrnekleri
+# PythonCalismaOrnekleri
 PythonCalışmaOrnekleri
