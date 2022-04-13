@@ -1,0 +1,2 @@
+# PythonCal-maOrnekleri
+PythonCalışmaOrnekleri
