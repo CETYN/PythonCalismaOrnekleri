@@ -1,4 +1,3 @@
-yılar=["sıçan","öküz","kaplan","tavşan","ejderha","yılan","at","koyun","maymun","horoz","köpek","domuz"]
 yıla=int(input("yılınızı giriniz:"))
 yıl=yıla%12
 
