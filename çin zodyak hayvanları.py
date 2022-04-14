@@ -17,7 +17,7 @@ elif(yıl==3):
     print("{}: Domuz Yılı".format(yıla))
     
 elif(yıl==4):
-    print("{}: Sıçan Yılı")
+    print("{}: Sıçan Yılı".format(yıla))
     
 elif(yıl==5):
     print("{}: Öküz Yılı".format(yıla))
